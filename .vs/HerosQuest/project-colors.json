@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5bf2992-1ba8-46a2-af4a-13449638bf33": {
+      "ProjectGuid": "d5bf2992-1ba8-46a2-af4a-13449638bf33",
+      "DisplayName": "HerosQuest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,13 @@
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.1-HerosQuest-master\HerosQuest\bin\Debug\HerosQuest.exe.config
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.1-HerosQuest-master\HerosQuest\bin\Debug\HerosQuest.exe
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.1-HerosQuest-master\HerosQuest\bin\Debug\HerosQuest.pdb
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.1-HerosQuest-master\HerosQuest\obj\Debug\HerosQuest.csproj.CoreCompileInputs.cache
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.1-HerosQuest-master\HerosQuest\obj\Debug\HerosQuest.exe
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.1-HerosQuest-master\HerosQuest\obj\Debug\HerosQuest.pdb
+C:\Users\Keshav Premsagar\OneDrive\Desktop\P2.1-HerosQuest-master\HerosQuest\obj\Debug\HerosQuest.csproj.AssemblyReference.cache
+C:\Users\Keshav Premsagar\Desktop\Hero-Quest-Game\HerosQuest\bin\Debug\HerosQuest.exe.config
+C:\Users\Keshav Premsagar\Desktop\Hero-Quest-Game\HerosQuest\bin\Debug\HerosQuest.exe
+C:\Users\Keshav Premsagar\Desktop\Hero-Quest-Game\HerosQuest\bin\Debug\HerosQuest.pdb
+C:\Users\Keshav Premsagar\Desktop\Hero-Quest-Game\HerosQuest\obj\Debug\HerosQuest.csproj.CoreCompileInputs.cache
+C:\Users\Keshav Premsagar\Desktop\Hero-Quest-Game\HerosQuest\obj\Debug\HerosQuest.exe
+C:\Users\Keshav Premsagar\Desktop\Hero-Quest-Game\HerosQuest\obj\Debug\HerosQuest.pdb
